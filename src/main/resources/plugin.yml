@@ -1,0 +1,6 @@
+name: RandomTester
+version: '${project.version}'
+main: xyz.oreodev.randomtester.RandomTester
+api-version: 1.18
+commands:
+  setr:
